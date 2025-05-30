@@ -8,9 +8,9 @@
 <body>
     <h1>
         <?php 
-            echo "Olá, Mundo!";
+            echo "Olá, Mundo! \u{1F30E}";
         ?>
-        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi neque cum officia voluptatibus beatae doloremque nihil praesentium labore non illo corrupti et enim atque, alias est facere quo, culpa ipsam.</p>
     </h1>
+    <p>Vamos tentar nos livrar da maldição!</p>
 </body>
 </html>
